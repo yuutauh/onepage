@@ -24,4 +24,13 @@ yarn-error.log*
 
 # api
 /src/Twitter.js
+/src/firebase.js
+
+#firebase
+.firebase
+.firebaserc
+firebase.json
+firestore.indexes.json
+firestore.rules
+stroage.rules
 
