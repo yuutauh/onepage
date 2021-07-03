@@ -1,0 +1,14 @@
+ <svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlnsLink="http://www.w3.org/1999/xlink" xmlnsBx="https://boxy-svg.com">
+  <path style="fill: rgb(102, 105, 92);" transform="matrix(-0.572385, 0.626898, -0.626898, -0.572385, 697.932983, 220.524155)" d="M 366.19 321.855 L 373.81 321.855 L 375.418 333.495 A 20.244 20.244 0 0 1 379.961 335.376 L 389.329 328.283 L 394.717 333.671 L 387.624 343.039 A 20.244 20.244 0 0 1 389.505 347.582 L 401.145 349.19 L 401.145 356.81 L 389.505 358.418 A 20.244 20.244 0 0 1 387.624 362.961 L 394.717 372.329 L 389.329 377.717 L 379.961 370.624 A 20.244 20.244 0 0 1 375.418 372.505 L 373.81 384.145 L 366.19 384.145 L 364.582 372.505 A 20.244 20.244 0 0 1 360.039 370.624 L 350.671 377.717 L 345.283 372.329 L 352.376 362.961 A 20.244 20.244 0 0 1 350.495 358.418 L 338.855 356.81 L 338.855 349.19 L 350.495 347.582 A 20.244 20.244 0 0 1 352.376 343.039 L 345.283 333.671 L 350.671 328.283 L 360.039 335.376 A 20.244 20.244 0 0 1 364.582 333.495 Z M 370 339.243 A 13.757 13.757 0 0 0 370 366.757 A 13.757 13.757 0 0 0 370 339.243" bxShape="cog 370 353 13.757 20.244 31.145 0.38 8 1@cafd3327"></path>
+  <defs>
+    <pattern x="0" y="0" width="25" height="25" patternUnits="userSpaceOnUse" viewBox="0 0 100 100" id="pattern-0">
+      <rect x="0" y="0" width="50" height="100" style="fill: black;"></rect>
+    </pattern>
+    <pattern id="pattern-0-0" patternTransform="matrix(1, 0, 0, 1, 357.5, 340.5)" xlinkHref="#pattern-0"></pattern>
+    <radialGradient gradientUnits="userSpaceOnUse" cx="370" cy="353" r="31.145" id="gradient-0" spreadMethod="pad">
+      <stop offset="0" style="stop-color: #bada55"></stop>
+      <stop offset="1" style="stop-color: #758d29"></stop>
+    </radialGradient>
+  </defs>
+  <path style="fill: rgb(195, 191, 72);" transform="matrix(0.488603, -0.872506, 1.743436, 0.976323, -452.866852, 269.53894)" d="M 381.936 297.839 A 24.323 24.323 0 1 1 381.936 322.162 A 17.798 17.798 0 1 0 381.936 297.839 Z" bxShape="crescent 403 310 24.323 300 0.7 1@3e5b15eb"></path>
+</svg>
